@@ -1,21 +1,16 @@
 
-# SyncBoard
+# Job-Portal
 
-A Real-Time Collaborative Drawing Board which help people to draw something and taking notes on it and also the notes can be downloaded into png format. Also this board can be used for collaboration with their friends or teammates to make important notes and also for learning purpose .
+A hiring paltform for Veridia to streamline and professionalize the process.
 
 
 ## Some of the key features of the website include:
 
-- Lining Tool
-- Rectangle Tool
-- Circle Tool
-- Arrow Tool
-- Brush Tool : This tool help to draw freehand drawing 
-- Text Tool
-- Undo/Redo Tool (Also added keyboard shortcut for undo redo tool)
-- Download Tool - Used to download the canvas in png format
-- Color Picker Tool - This tool is used to change the color of the drawing tool
-- Erase Tool
+- Candidate Registration and Login
+- Application Form (to collect applicant details similar to Google Forms)
+- Dashboard for Applicants (to check status, update profile, etc.)
+- Admin Dashboard for HR Team (to view, filter, and manage applications)
+- Automated Email Notifications (on application submission / status updates) 
 
 ## Features, Tools and Technologies Used:
 - React
@@ -26,7 +21,7 @@ A Real-Time Collaborative Drawing Board which help people to draw something and 
 - ExpressJS
 
 ## A quick look into the website
-<img width="1895" height="852" alt="Screenshot 2025-10-03 010042" src="https://github.com/user-attachments/assets/5afceeae-c66b-4239-967e-139179e09b9e" />
+<img width="1895" height="852" alt="Screenshot 2025-10-03 010042" src="https://github.com/Palash01-hazra/veridia.io_project/blob/8630e318b2759bb1956a019c578f8e686bc6b24d/Screenshot%202025-12-17%20181210.png" />
 <img width="1718" height="739" alt="Screenshot 2025-10-03 011835" src="https://github.com/user-attachments/assets/f1e874be-ae91-4e4a-98cd-671060db34c0" />
 <img width="1703" height="816" alt="Screenshot 2025-10-03 011926" src="https://github.com/user-attachments/assets/207fcc55-413e-4444-9728-d5a54f80adf8" />
 <img width="1894" height="857" alt="Screenshot 2025-10-03 013454" src="https://github.com/user-attachments/assets/4c8dd7bc-9cb1-416c-99ad-35f74f4cc52a" />
